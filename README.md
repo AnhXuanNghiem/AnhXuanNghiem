@@ -1,4 +1,4 @@
-### Hi there 👋 Im'Xvnh
+### Hi there 👋
 
 <!--
 **AnhXuanNghiem/AnhXuanNghiem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
